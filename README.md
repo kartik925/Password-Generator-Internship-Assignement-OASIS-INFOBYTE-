@@ -9,14 +9,14 @@ Copy generated password to clipboard
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/password-generator.git
-Navigate to the project directory:
+git clone https://github.com/kartik925/Password-Generator-Internship-Assignement-OASIS-INFOBYTE-.git
 
+Navigate to the project directory:
 cd BreadcrumbsPassword-Generator-Internship-Assignement-OASIS-INFOBYTE
 
 Run the application:
-
 python password_generator.py
+
 Set the desired password length.
 Choose character types to include.
 Click "Generate Password" to create a strong password.
